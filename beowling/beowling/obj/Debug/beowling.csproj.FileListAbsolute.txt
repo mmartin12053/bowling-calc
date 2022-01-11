@@ -1,0 +1,15 @@
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\beowling.csproj.AssemblyReference.cache
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\MainWindow.g.cs
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\App.g.cs
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\beowling_MarkupCompile.cache
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\beowling_MarkupCompile.lref
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\bin\Debug\beowling.exe.config
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\bin\Debug\beowling.exe
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\bin\Debug\beowling.pdb
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\MainWindow.baml
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\beowling.g.resources
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\beowling.Properties.Resources.resources
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\beowling.csproj.GenerateResource.cache
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\beowling.csproj.CoreCompileInputs.cache
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\beowling.exe
+C:\Users\Martin_Maximus\Desktop\topanga\beowling\beowling\obj\Debug\beowling.pdb
